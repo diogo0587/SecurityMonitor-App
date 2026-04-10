@@ -37,7 +37,8 @@ jobs:
         shell: bash
         run: |
           set -e
-          gradle clean assembleDebug
+          chmod +x gradlew
+          ./gradlew clean assembleDebug
           echo "BUILD SUCCESS"
           ls -la app/build/outputs/apk/debug/
 
