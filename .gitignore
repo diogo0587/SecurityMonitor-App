@@ -1,7 +1,19 @@
-# Ignore local Android SDK and large artifacts
-.android-sdk/
-gradle-8.5/
+# Gradle
 .gradle/
 build/
+gradle-8.5/
+
+# Android
 local.properties
-!gradle-wrapper.jar
+.android-sdk/
+
+# IDE  
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

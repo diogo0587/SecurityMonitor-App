@@ -48,6 +48,7 @@ android {
 
     buildFeatures {
         viewBinding = true
+        dataBinding = true
     }
 }
 
@@ -87,7 +88,7 @@ dependencies {
     // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 
-    // Charts
+    // Charts - use version without dataBinding dependency
     implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
 
     // Preference
