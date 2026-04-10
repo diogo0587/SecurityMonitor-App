@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/item_history.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/item_permission.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/item_permission.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/activity_history.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/activity_permission_detail.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_permission_detail.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/activity_settings.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/activity_storage_battery_detail.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_storage_battery_detail.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/item_alert.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/item_alert.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/activity_network_detail.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_network_detail.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/activity_system_detail.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_system_detail.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-mergeDebugResources-51:/layout/widget_security_score.xml",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/widget_security_score.xml"
+    }
+]

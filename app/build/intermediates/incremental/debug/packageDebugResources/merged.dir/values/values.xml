@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#121212</color>
+    <color name="black">#000000</color>
+    <color name="error">#CF6679</color>
+    <color name="primary">#BB86FC</color>
+    <color name="primary_variant">#6200EE</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="severity_critical">#CF6679</color>
+    <color name="severity_high">#FF7043</color>
+    <color name="severity_low">#03DAC6</color>
+    <color name="severity_medium">#FFB74D</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="surface_variant">#2D2D2D</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Security Monitor</string>
+    <style name="Theme.DeviceSecurityMonitor" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorError">@color/error</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOnError">@color/black</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+    </style>
+</resources>

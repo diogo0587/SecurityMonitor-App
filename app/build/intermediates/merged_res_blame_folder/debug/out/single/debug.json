@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_widget_background.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/widget_background.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_ic_settings.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_item_permission.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/item_permission.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_ic_security.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/ic_security.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_ic_history.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_ic_network.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/ic_network.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_widget_security_score.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/widget_security_score.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_ic_permission.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/ic_permission.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/xml_security_widget_info.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/xml/security_widget_info.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_ic_device.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/ic_device.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_item_alert.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/item_alert.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/menu_menu_main.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_activity_storage_battery_detail.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_storage_battery_detail.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_activity_history.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_item_history.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_activity_settings.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_ic_back.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_activity_system_detail.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_system_detail.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_activity_permission_detail.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_permission_detail.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/layout_activity_network_detail.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/layout/activity_network_detail.xml"
+    },
+    {
+        "merged": "com.devicesecurity.monitor.app-merged_res-52:/drawable_ic_warning.xml.flat",
+        "source": "com.devicesecurity.monitor.app-main-54:/drawable/ic_warning.xml"
+    }
+]
