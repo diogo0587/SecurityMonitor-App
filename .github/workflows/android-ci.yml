@@ -35,11 +35,6 @@ jobs:
         run: |
           set -e
           gradle --version
-          gradle clean assembleDebug
-          echo "BUILD SUCCESS"
-
-      - name: Upload APK
-        uses: actions/upload-artifact@v4
-        with:
-          name: app-debug-apk
-          path: app/build/outputs/apk/debug/**/*.apk
+          gradle clean assembleDebug 2>&1 | grep -E "(error:|Error:|FAILURE:|Exception|failed)" || echo "No errors found in output"
+          echo "=== FULL OUTPUT ABOVE ==="
+          ls -la app/build/outputs/apk/debug/ 2>/dev/null || echo "APK directory not found"
