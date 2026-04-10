@@ -1,0 +1,7 @@
+# Ignore local Android SDK and large artifacts
+.android-sdk/
+gradle-8.5/
+.gradle/
+build/
+local.properties
+!gradle-wrapper.jar
