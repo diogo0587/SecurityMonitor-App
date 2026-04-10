@@ -6,20 +6,23 @@ import androidx.room.Room
 import androidx.room.RoomDatabase
 import com.devicesecurity.monitor.data.db.dao.AlertDao
 import com.devicesecurity.monitor.data.db.dao.AppPermissionDao
+import com.devicesecurity.monitor.data.db.dao.NotificationDao
 import com.devicesecurity.monitor.data.db.dao.SnapshotDao
 import com.devicesecurity.monitor.data.db.entity.AlertEntity
 import com.devicesecurity.monitor.data.db.entity.AppPermissionEntity
+import com.devicesecurity.monitor.data.db.entity.NotificationEntity
 import com.devicesecurity.monitor.data.db.entity.SecuritySnapshotEntity
 
 @Database(
-    entities = [SecuritySnapshotEntity::class, AppPermissionEntity::class, AlertEntity::class],
-    version = 1,
+    entities = [SecuritySnapshotEntity::class, AppPermissionEntity::class, AlertEntity::class, NotificationEntity::class],
+    version = 2,
     exportSchema = true
 )
 abstract class AppDatabase : RoomDatabase() {
     abstract fun snapshotDao(): SnapshotDao
     abstract fun appPermissionDao(): AppPermissionDao
     abstract fun alertDao(): AlertDao
+    abstract fun notificationDao(): NotificationDao
 
     companion object {
         @Volatile
